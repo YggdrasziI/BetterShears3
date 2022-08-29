@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " E",
+		"E "
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "tag": "forge:gems/emerald"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:emerald_shears",
+        "count": 1
+    }
+}

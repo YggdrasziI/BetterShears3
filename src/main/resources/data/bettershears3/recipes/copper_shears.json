@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " C",
+		"C "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "tag": "forge:ingots/copper"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:copper_shears",
+        "count": 1
+    }
+}

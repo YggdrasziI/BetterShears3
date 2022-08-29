@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+		"DNC",
+		"RSN",
+		"BRD"
+    ],
+	
+	"key":
+    {
+        "D":
+        {
+            "item": "minecraft:dragon_breath"
+        },
+        "R":
+        {
+            "item": "minecraft:respawn_anchor"
+        },
+		"N":
+		{
+			"item": "minecraft:nether_star"
+		},
+		"C":
+		{
+			"item": "minecraft:end_crystal"
+		},
+		"S":
+		{
+			"tag": "forge:shears/netherite"
+		},
+		"B":
+		{
+			"item": "minecraft:beacon"
+		}
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:star_shears",
+        "count": 1
+    }
+}

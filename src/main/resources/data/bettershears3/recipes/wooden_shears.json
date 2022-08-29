@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S",
+		"S "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:wooden_shears",
+        "count": 1
+    }
+}

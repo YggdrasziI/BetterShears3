@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " D",
+		"D "
+    ],
+    
+    "key":
+    {
+        "D":
+        {
+            "tag": "forge:gems/diamond"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:diamond_shears",
+        "count": 1
+    }
+}

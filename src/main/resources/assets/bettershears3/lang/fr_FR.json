@@ -1,0 +1,16 @@
+{
+	"item.bettershears3.wooden_shears": "Cisailles en bois",
+	"item.bettershears3.flint_shears": "Cisailles en Silex",
+	"item.bettershears3.gold_shears": "Cisailles en Or",
+	"item.bettershears3.unfired_clay_shears": "Cisailles non Cuite",
+	"item.bettershears3.clay_shears": "Cisailles en Argile",
+	"item.bettershears3.lapis_shears": "Cisailles en Lapis",
+	"item.bettershears3.copper_shears": "Cisailles en Cuivre",
+	"item.bettershears3.diamond_shears": "Cisailles en Diamant",
+	"item.bettershears3.obsidian_shears": "Cisailles en Obsidienne",
+	"item.bettershears3.emerald_shears": "Cisailles en Emeraude",
+	"item.bettershears3.netherite": "Cisailles en Netherite",
+	"item.bettershears3.star_shears": "Cisailles Infini",
+
+	"itemGroup.bettershears3": "Meilleur Cisailles 3"
+}

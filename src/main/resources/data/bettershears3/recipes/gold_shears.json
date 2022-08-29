@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " G",
+		"G "
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "tag": "forge:ingots/gold"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:gold_shears",
+        "count": 1
+    }
+}

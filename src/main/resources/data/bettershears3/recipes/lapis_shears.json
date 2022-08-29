@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " L",
+		"L "
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "tag": "forge:gems/lapis"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:lapis_shears",
+        "count": 1
+    }
+}

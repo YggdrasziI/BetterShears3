@@ -1,11 +1,13 @@
 {
   "replace": false,
   "values": [
+    "#forge:shears/cobble",
     "#forge:shears/wooden",
     "#forge:shears/flint",
     "#forge:shears/gold",
     "#forge:shears/clay",
     "#forge:shears/copper",
+    "#forge:shears/amethyst",
     "#forge:shears/lapis",
     "#forge:shears/diamond",
     "#forge:shears/obsidian",

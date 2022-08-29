@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " A",
+		"A "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "tag": "forge:gems/amethyst"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:amethyst_shears",
+        "count": 1
+    }
+}

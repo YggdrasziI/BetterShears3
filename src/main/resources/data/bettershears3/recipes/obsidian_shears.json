@@ -1,23 +1,15 @@
 {
-    "type": "minecraft:crafting_shaped",
-    
-    "pattern":
-    [
-        " O",
-		"O "
-    ],
-    
-    "key":
+    "type": "minecraft:smithing",
+    "base": 
     {
-        "O":
-        {
-            "item": "minecraft:obsidian"
-        }
+        "tag": "forge:shears/emerald"
     },
-    
-    "result":
+    "addition": 
     {
-        "item": "bettershears3:obsidian_shears",
-        "count": 1
+        "item": "minecraft:obsidian"
+    },
+    "result": 
+    {
+        "item": "bettershears3:obsidian_shears"
     }
 }

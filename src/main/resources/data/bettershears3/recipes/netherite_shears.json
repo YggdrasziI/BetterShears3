@@ -2,7 +2,7 @@
     "type": "minecraft:smithing",
     "base": 
     {
-        "tag": "forge:shears/diamond"
+        "tag": "forge:shears/obsidian"
     },
     "addition": 
     {

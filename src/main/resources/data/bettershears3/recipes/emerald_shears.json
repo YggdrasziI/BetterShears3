@@ -1,23 +1,15 @@
 {
-    "type": "minecraft:crafting_shaped",
-    
-    "pattern":
-    [
-        " E",
-		"E "
-    ],
-    
-    "key":
+    "type": "minecraft:smithing",
+    "base": 
     {
-        "E":
-        {
-            "tag": "forge:gems/emerald"
-        }
+        "tag": "forge:shears/diamond"
     },
-    
-    "result":
+    "addition": 
     {
-        "item": "bettershears3:emerald_shears",
-        "count": 1
+        "tag": "forge:storage_blocks/emerald"
+    },
+    "result": 
+    {
+        "item": "bettershears3:emerald_shears"
     }
 }

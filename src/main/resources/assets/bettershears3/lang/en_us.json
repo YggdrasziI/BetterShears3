@@ -1,10 +1,12 @@
 {
+  "item.bettershears3.cobble_shears": "Cobble Shears",
   "item.bettershears3.wooden_shears": "Wooden Shears",
   "item.bettershears3.flint_shears": "Flint Shears",
   "item.bettershears3.gold_shears": "Gold Shears",
   "item.bettershears3.unfired_clay_shears": "Unfired Clay Shears",
   "item.bettershears3.clay_shears": "Clay Shears",
   "item.bettershears3.copper_shears": "Copper Shears",
+  "item.bettershears3.amethyst_shears": "Amethyst Shears",
   "item.bettershears3.lapis_shears": "Lapis Shears",
   "item.bettershears3.diamond_shears": "Diamond Shears",
   "item.bettershears3.obsidian_shears": "Obsidian Shears",
@@ -12,5 +14,5 @@
   "item.bettershears3.netherite_shears": "Netherite Shears",
   "item.bettershears3.star_shears": "Infinite Shears",
 
-  "itemGroup.bettershears3": "Better Shears 3"
+  "itemGroup.bettershears_tab": "Better Shears 3"
 }

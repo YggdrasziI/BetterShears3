@@ -1,4 +1,5 @@
 {
+	"item.bettershears3.cobble_shears": "Brosteinssaks",
 	"item.bettershears3.wooden_shears": "Tresaks",
 	"item.bettershears3.flint_shears": "Flint Saks",
 	"item.bettershears3.gold_shears": "Gull Saks",
@@ -6,6 +7,7 @@
 	"item.bettershears3.clay_shears": "LeirsaksS",
 	"item.bettershears3.lapis_shears": "Lapis Saks",
 	"item.bettershears3.copper_shears": "Kobbersaks",
+	"item.bettershears3.amethyst_shears": "Ametyst saks",
 	"item.bettershears3.diamond_shears": "Diamantsaks",
 	"item.bettershears3.obsidian_shears": "Obsidiansakser",
 	"item.bettershears3.emerald_shears": "Smaragd Saks",

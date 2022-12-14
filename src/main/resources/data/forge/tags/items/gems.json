@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#forge:gems/gems"
+    "#forge:gems/amethyst",
+    "#forge:gems/echo"
   ]
 }

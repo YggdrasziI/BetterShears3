@@ -9,9 +9,8 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 
-public class ModItems
-{
-    public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, BetterShears3.MOD_ID);
+public class ModItems {
+    public static DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, BetterShears3.MOD_ID);
 
     public static final RegistryObject<Item> UNFIRED_CLAY_SHEARS = ITEMS.register("unfired_clay_shears",
             () -> new Item(new Item.Properties().stacksTo(1).tab(ModCreativeModTab.BETTERSHEARS_TAB)));
@@ -40,11 +39,16 @@ public class ModItems
             () -> new BetterShearsTool(new Item.Properties().stacksTo(1).durability(2999).tab(ModCreativeModTab.BETTERSHEARS_TAB)));
     public static final RegistryObject<Item> NETHERITE_SHEARS = ITEMS.register("netherite_shears",
             () -> new BetterShearsTool(new Item.Properties().stacksTo(1).durability(4044).tab(ModCreativeModTab.BETTERSHEARS_TAB)));
+    public static final RegistryObject<Item> WARDEN_SHEARS = ITEMS.register("warden_shears",
+            () -> new BetterShearsTool(new Item.Properties().stacksTo(1).durability(6144).tab(ModCreativeModTab.BETTERSHEARS_TAB)));
 
     public static final RegistryObject<Item> STAR_SHEARS = ITEMS.register("star_shears",
             () -> new BetterShearsInfiniteTool(new Item.Properties().stacksTo(1).durability(0).tab(ModCreativeModTab.BETTERSHEARS_TAB)));
 
-    public static void register(IEventBus eventBus)
+    public static final RegistryObject<Item> WARDEN_HEART = ITEMS.register("warden_heart",
+            () -> new Item(new Item.Properties().tab(ModCreativeModTab.BETTERSHEARS_TAB)));
+
+    public static void register (IEventBus eventBus)
     {
         ITEMS.register(eventBus);
     }

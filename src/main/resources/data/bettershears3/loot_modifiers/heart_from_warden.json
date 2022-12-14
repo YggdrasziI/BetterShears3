@@ -1,0 +1,10 @@
+{
+  "type": "bettershears3:add_item",
+  "conditions": [
+    {
+      "condition": "killed_by_player",
+      "entities ": "minecraft:warden "
+    }
+  ],
+  "item": "bettershears3:warden_heart"
+}

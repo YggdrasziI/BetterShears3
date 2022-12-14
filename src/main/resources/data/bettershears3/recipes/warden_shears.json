@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " E ",
+		"ENE",
+        "WE "
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "tag": "forge:gems/echo"
+        },
+        "N":
+        {
+            "tag": "forge:shears/netherite"
+        },
+        "W":
+        {
+            "item": "bettershears3:warden_heart"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:warden_shears",
+        "count": 1
+    }
+}

@@ -4,8 +4,8 @@
     "pattern":
     [
 		"DNC",
-		"RSN",
-		"BRD"
+		"WSN",
+		"BWD"
     ],
 	
 	"key":
@@ -14,9 +14,9 @@
         {
             "item": "minecraft:dragon_breath"
         },
-        "R":
+        "W":
         {
-            "item": "minecraft:respawn_anchor"
+            "item": "minecraft:sculk_shrieker"
         },
 		"N":
 		{
@@ -28,7 +28,7 @@
 		},
 		"S":
 		{
-			"tag": "forge:shears/netherite"
+			"tag": "forge:shears/warden"
 		},
 		"B":
 		{

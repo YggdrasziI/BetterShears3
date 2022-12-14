@@ -19,7 +19,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'org.parchmentmc.librarian.forgegradle'
 
 
-version = '1.18.2-3.1.0_RELEASE'
+version = '1.18.2-3.1.1_RELEASE'
 group = 'fr.yggdraszil.bettershears3' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'bettershears3'
 

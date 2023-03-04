@@ -2,6 +2,7 @@ package fr.yggdraszil.bettershears3.item;
 
 import fr.yggdraszil.bettershears3.BetterShears3;
 import fr.yggdraszil.bettershears3.tool.BetterShearsInfiniteTool;
+import fr.yggdraszil.bettershears3.tool.BetterShearsTest;
 import fr.yggdraszil.bettershears3.tool.BetterShearsTool;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;

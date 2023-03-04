@@ -2,7 +2,6 @@ package fr.yggdraszil.bettershears3;
 
 import com.mojang.logging.LogUtils;
 import fr.yggdraszil.bettershears3.item.ModItems;
-import fr.yggdraszil.bettershears3.loot.ModLootModifiers;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -25,8 +24,6 @@ public class BetterShears3
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
-
-        ModLootModifiers.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

@@ -1,5 +1,5 @@
 {
-  "item.bettershears3.cobble_shears": "Cobble Shears",
+  "item.bettershears3.cobblestone_shears": "Cobblestone Shears",
   "item.bettershears3.wooden_shears": "Wooden Shears",
   "item.bettershears3.flint_shears": "Flint Shears",
   "item.bettershears3.gold_shears": "Gold Shears",
@@ -13,6 +13,5 @@
   "item.bettershears3.emerald_shears": "Emerald Shears",
   "item.bettershears3.netherite_shears": "Netherite Shears",
   "item.bettershears3.star_shears": "Infinite Shears",
-
   "itemGroup.bettershears_tab": "Better Shears 3"
 }

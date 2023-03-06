@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " C",
+		"C "
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "tag": "forge:cobblestone/normal"
+        }
+    },
+    
+    "result":
+    {
+        "item": "bettershears3:cobblestone_shears",
+        "count": 1
+    }
+}

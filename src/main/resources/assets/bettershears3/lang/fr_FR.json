@@ -1,5 +1,5 @@
 {
-	"item.bettershears3.cobble_shears": "Cisailles en Pierre",
+	"item.bettershears3.cobblestone_shears": "Cisailles en Pierre",
 	"item.bettershears3.wooden_shears": "Cisailles en Bois",
 	"item.bettershears3.flint_shears": "Cisailles en Silex",
 	"item.bettershears3.gold_shears": "Cisailles en Or",
@@ -13,6 +13,5 @@
 	"item.bettershears3.emerald_shears": "Cisailles en Emeraude",
 	"item.bettershears3.netherite_shears": "Cisailles en Netherite",
 	"item.bettershears3.star_shears": "Cisailles Infini",
-
 	"itemGroup.bettershears3": "Meilleur Cisailles 3"
 }

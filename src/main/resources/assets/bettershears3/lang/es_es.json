@@ -1,5 +1,5 @@
 {
-	"item.bettershears3.cobble_shears": "Tijeras de Adoquines",
+	"item.bettershears3.cobblestone_shears": "Tijeras de Adoquines",
 	"item.bettershears3.wooden_shears": "Tijeras de Madera",
 	"item.bettershears3.flint_shears": "Tijeras de Pedernal",
 	"item.bettershears3.gold_shears": "Tijeras de Oro",
@@ -13,6 +13,5 @@
 	"item.bettershears3.emerald_shears": "Tijeras de Esmeralda",
 	"item.bettershears3.netherite_shears": "Tijeras de Netherite",
 	"item.bettershears3.star_shears": "Tijeras Infinitas",
-
 	"itemGroup.bettershears3": "Mejores Tijeras 3"
 }

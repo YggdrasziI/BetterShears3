@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#forge:shears/cobble",
+    "#forge:shears/cobblestone",
     "#forge:shears/wooden",
     "#forge:shears/flint",
     "#forge:shears/gold",

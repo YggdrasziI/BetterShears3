@@ -1,5 +1,5 @@
 {
-	"item.bettershears3.cobble_shears": "Brosteinssaks",
+	"item.bettershears3.cobblestone_shears": "Brosteinssaks",
 	"item.bettershears3.wooden_shears": "Tresaks",
 	"item.bettershears3.flint_shears": "Flint Saks",
 	"item.bettershears3.gold_shears": "Gull Saks",
@@ -13,6 +13,5 @@
 	"item.bettershears3.emerald_shears": "Smaragd Saks",
 	"item.bettershears3.netherite_shears": "Netherite Saks",
 	"item.bettershears3.star_shears": "Uendelig Saks",
-
 	"itemGroup.bettershears3": "Bedre Saks 3"
 }
